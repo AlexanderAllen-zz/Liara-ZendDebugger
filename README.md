@@ -24,7 +24,7 @@ Example Playbook
 
     - hosts: webservers
       roles:
-         - { role: AlexanderAllen.ZendDebugger }
+         - { role: AlexanderAllen.Liara-ZendDebugger }
 
 License
 -------
